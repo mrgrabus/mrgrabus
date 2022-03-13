@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React & NodeJS**
 
-- 📫 How to reach me **@mrgrabus**
+- 📫 Reach me **@mrgrabus**
 
 - ⚡ Fun fact **every 60 minutes in africa an hour passes...**
 
