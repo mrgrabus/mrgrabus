@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edin Grabus</h1>
 <h3 align="center">A passionate frontend developer from Bosnia and Herzegovina</h3>
 
-- 🔭 I’m currently working on **KMF Vitez App**
+- 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **React & NodeJS**
 
